@@ -1,5 +1,5 @@
 ### Hi there 👋
-![samurai doge](../samurai doge.jfif)
+![samurai doge](../samurai doge.jpg)
 <!--
 **delapzzz/delapzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
