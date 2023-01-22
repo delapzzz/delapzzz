@@ -1,5 +1,5 @@
 ### Hi there 👋
-![samurai doge](https://user-images.githubusercontent.com/112954170/213908156-02229b36-9f69-4f35-922a-5c49a1a9851e.jpg)
+![samurai doge](https://user-images.githubusercontent.com/112954170/213908207-f86ad4c1-dc47-462e-9eee-50f4457923f5.jpg)
 <!--
 **delapzzz/delapzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
