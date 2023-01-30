@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![samurai doge](https://user-images.githubusercontent.com/112954170/213908207-f86ad4c1-dc47-462e-9eee-50f4457923f5.jpg)<br>
-right now,I just wanna forget you.
+right now, I just wanna forget you.
 <!--
 **delapzzz/delapzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
